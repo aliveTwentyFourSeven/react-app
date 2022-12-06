@@ -1,4 +1,4 @@
 * @aliveTwentyFourSeven
-*.js @msa
+*.js @aliveTwentyFourSeven
 *.yml @aliveTwentyFourSeven
 /public/ @aliveTwentyFourSeven
