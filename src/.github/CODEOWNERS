@@ -1,0 +1,4 @@
+* @aliveTwentyFourSeven
+*.js @msa
+*.yml @aliveTwentyFourSeven
+/public/ @aliveTwentyFourSeven
